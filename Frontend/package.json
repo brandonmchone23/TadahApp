@@ -20,7 +20,8 @@
     "toastify-js": "^1.11.2",
     "webpack": "^5.78.0",
     "webpack-cli": "^5.0.1",
-    "webpack-dev-server": "^4.13.2"
+    "webpack-dev-server": "^4.13.2",
+    "file-loader": "^6.2.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",

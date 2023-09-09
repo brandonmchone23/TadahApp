@@ -1,4 +1,4 @@
-# ATA-Learn-And-Be-Curious-Project
+# TaDah App - LBC PROJECT- SNHU
 
 ### Project Name
 Learn and Be Curious Project Design Planning
